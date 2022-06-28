@@ -19,6 +19,13 @@ Virtual Reality, Augmented Reality, Non-fungible token 기반의 엔터테인먼
 
 ## Projects
 
+### 2022 CyberTHUG Gecko Club
+
+CyberTHUG Gecko Club(이하 사이버더그 게코 클럽)은 NFT 크레스티드 게코 도마뱀을 브리딩하는 NFT 게임입니다. 
+
+- [link](https://gecko.thecyberthug.com/)
+- [guidebook](https://cyberthuggeckoclub.notion.site/CyberTHUG-Gecko-Club-Guidebook-2f5cb5a1b23d4257b75552d3190fdf76)
+
 ### 2022 CyberTHUG PFP-NFT
 
 CyberTHUG는 모스랜드에서 시작한 PFP(Profile Picture) NFT 프로젝트입니다. 독특한 컨셉의 THUG 캐릭터들이 모여 CyberTHUG DAO를 구성하고, PSA(Public Service Announcement) 를 지향하는 P2E 서비스를 개발하고 있습니다. 블록체인 기술과 P2E 의 인센티브 모델로 구현된 선한 영향력으로 사람들의 행동과 사회의 모습을 바꿔 나갈 수 있도록 노력하고 있습니다.
