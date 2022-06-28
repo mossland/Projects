@@ -21,7 +21,7 @@ Virtual Reality, Augmented Reality, Non-fungible token 기반의 엔터테인먼
 
 ### 2022 CyberTHUG Gecko Club
 
-CyberTHUG Gecko Club(이하 사이버더그 게코 클럽)은 NFT 크레스티드 게코 도마뱀을 브리딩하는 NFT 게임입니다. 
+CyberTHUG Gecko Club(이하 사이버더그 게코 클럽)은 NFT 크레스티드 게코 도마뱀을 브리딩하는 NFT 게임입니다. 사이버더그 게코 클럽에서 모티브로 삼은 게코는 크레스티드 게코이며, 붙이류 도마뱀 중 하나로  뉴칼레도니아에서 서식합니다. 팔레트 게코라고 불리울 만큼 실제로 브리딩을 통해 다양한 모프가 개발되고 있으며, [현실판 NFT]라 할 수 있습니다.
 
 - [link](https://gecko.thecyberthug.com/)
 - [guidebook](https://cyberthuggeckoclub.notion.site/CyberTHUG-Gecko-Club-Guidebook-2f5cb5a1b23d4257b75552d3190fdf76)
