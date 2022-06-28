@@ -19,6 +19,12 @@ Virtual Reality, Augmented Reality, Non-fungible token 기반의 엔터테인먼
 
 ## Projects
 
+### 2022 CyberTHUG PFP-NFT
+
+CyberTHUG는 모스랜드에서 시작한 PFP(Profile Picture) NFT 프로젝트입니다. 독특한 컨셉의 THUG 캐릭터들이 모여 CyberTHUG DAO를 구성하고, PSA(Public Service Announcement) 를 지향하는 P2E 서비스를 개발하고 있습니다. 블록체인 기술과 P2E 의 인센티브 모델로 구현된 선한 영향력으로 사람들의 행동과 사회의 모습을 바꿔 나갈 수 있도록 노력하고 있습니다.
+
+- [link](https://www.thecyberthug.com/)
+
 ### 2021 e스포츠 AMX 승부예측
 
 한국 최초 프로 e스포츠 레이싱 대회 “코오롱 AMX e스포츠 챔피언십”의 승부예측 이벤트를 AMX와 모스랜드가 함께 진행합니다. “코오롱 AMX e스포츠 챔피언십”는 AMX와 주식회사 아프리카 콜로세움이 공동으로 개최하는 e스포츠 레이싱 대회입니다. 2021년 10월 27일, 28일 양일간 이벤트가 진행됩니다.
