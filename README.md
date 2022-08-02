@@ -11,11 +11,18 @@ Mossland is a blockchain-based metaverse project connecting real and virtual wor
 모스랜드(Mossland)는 현실과 가상 세계를 잇는 블록체인 기반 메타버스 프로젝트입니다.
 Virtual Reality, Augmented Reality, Non-fungible token 기반의 엔터테인먼트 서비스를 지속적으로 출시하며 실사용 사례들을 만들어 가고 있습니다. 모스랜드 메타버스는 현실이 반영된 디지털 NFT 자산과 엔터테인먼트 서비스를 특징으로 하며, 모스코인(MOC)으로 통합된 경제 순환 구조를 추구합니다. 
 
-- [Homepage](https://www.moss.land/)
-- [Twitter](https://twitter.com/theMossland)
-- [Disclosure and materials](https://github.com/mossland/Disclosure-and-Materials)
+- [moss.land](https://www.moss.land/)
+- [twitter](https://twitter.com/theMossland)
+- [github](https://github.com/mossland)
 
 ## Projects
+
+
+### 2022 Mossverse Hackathon
+
+모스버스(모스랜드 메타버스)의 미니 서비스를 오픈소스 해커톤으로 개발하는 프로젝트 입니다. 모스버스 해커톤을 통해 모스버스 안에 다양한 콘텐츠를 오픈소스로 개발하고 공급하는 것이 목표입니다. 해커톤은 공개된 GitHub Repository에서 진행되며 누구나 아이디어를 제안하고 개발에 참여할 수 있습니다.
+
+- [GitHub - mossland/Hackathon](https://github.com/mossland/Hackathon)
 
 ### 2022 CyberTHUG Gecko Club
 
