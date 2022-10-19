@@ -12,7 +12,6 @@ Virtual Reality, Augmented Reality, Non-fungible token 기반의 엔터테인먼
 
 ## Projects
 
-
 ### 2022 Mossverse Hackathon
 
 모스버스(모스랜드 메타버스)의 미니 서비스를 오픈소스 해커톤으로 개발하는 프로젝트 입니다. 모스버스 해커톤을 통해 모스버스 안에 다양한 콘텐츠를 오픈소스로 개발하고 공급하는 것이 목표입니다. 해커톤은 공개된 GitHub Repository에서 진행되며 누구나 아이디어를 제안하고 개발에 참여할 수 있습니다.
