@@ -12,6 +12,12 @@ Virtual Reality, Augmented Reality, Non-fungible token 기반의 엔터테인먼
 
 ## Projects
 
+### 2024 Agora
+Agora 프로젝트는 모스랜드의 DAO 거버넌스 프레임워크로, 탈중앙화된 커뮤니티 기반 투표 시스템과 온체인 트랜잭션의 연동을 특징으로 합니다. 이를 통해 모스랜드 커뮤니티 회원들은 제안을 토론하고 협업하여 결정 과정에 참여할 수 있으며, 개방성, 협업, 혁신을 모스랜드 생태계 발전의 핵심 가치로 삼고 있습니다. Agora는 모스랜드의 투명성 강화와 프로젝트 진행의 효율성 향상에 중점을 두고 있습니다.
+
+- [GitHub](https://github.com/mossland/Agora)
+- [소개자료]([https://github.com/mossland/mossverse/raw/main/MosslandMetaverse_ko.pdf](https://medium.com/mossland-blog/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%EA%B3%A0%EB%9D%BC-agora-67b3b2e3fa7f)
+
 ### 2022-2023 Mossland Metaverse
 모스코인이 활용되는 마이크로 서비스가 모여있는 오픈소스 메타버스 플랫폼입니다. 모스코인의 사용성을 확대하고 더 많은 사용자와 개발자를 모스랜드 생태계로 끌어들이기 위해 개발되었습니다. 모스랜드 메타버스에서 사용자들은 MOC를 사용해 디지털/오프라인 재화를 매매할 수 있고, 다양한 미니 게임으로 포인트를 쌓고 이벤트에 참여할 수 있습니다. 모스랜드 메타버스는 오픈소스로 개발되고 있으며 누구나 아이디어 제안과 개발에 참여할 수 있습니다.
 
