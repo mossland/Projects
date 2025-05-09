@@ -12,6 +12,17 @@ Virtual Reality, Augmented Reality, Non-fungible token 기반의 엔터테인먼
 
 ## Projects
 
+### 2025 MAIT
+MAIT(Mossland DAO AI Toolkit)은 모스랜드의 DAO 운영 효율을 높이고 의사결정 과정을 자동화하기 위해 AI 기능을 통합한 도구입니다. 커뮤니티의 제안과 투표 데이터를 실시간으로 분석하여, 프로젝트가 더욱 정확하고 투명하게 진행될 수 있도록 돕습니다. 이를 통해 DAO 거버넌스의 혁신과 빠른 의사결정이 가능해지며, 모스랜드 생태계가 한층 견고하게 성장하는 기반을 마련합니다.
+
+- [Homepage](https://mait.moss.land/)
+- [가이드북](https://medium.com/mossland-blog/mait-mossland-dao-ai-toolkit-%EC%A0%95%EC%8B%9D-%EC%98%A4%ED%94%88-89bd4db5083d)
+
+### 2025 Digital Twin
+Digital Twin은 실제 물리적 공간을 메타버스와 연결하여 건물, 도시, 시설 등의 구조와 에너지 사용 정보를 실시간으로 모니터링하고 최적화하는 리서치 프로젝트입니다. Autodesk Revit과 Autodesk Tandem 기술을 활용해 3D 모델링 데이터를 메타버스 플랫폼과 연동함으로써 에너지 효율성, 안전 관리 등 새로운 가치를 창출하는 다양한 사용 사례를 연구하고 있습니다. 또한 블록체인 기술을 적용해 데이터 무결성과 투명성을 높여, 미래 지향적인 메타버스 환경을 구축하고자 합니다.
+
+- [GitHub](https://github.com/mossland/Hackathon/tree/feature/digital-twin/DigitalTwin)
+
 ### 2025 Mossland AI
 Mossland AI 프로젝트는 인공지능 기술을 활용하여 Mossland의 메타버스 경험을 한층 발전시키고 사용자 참여를 증대시키기 위한 프로젝트입니다. Mossland AI는 메타버스 내에서의 상호작용을 변화시키며, 다음과 같은 기능을 제공합니다:
 
