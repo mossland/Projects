@@ -16,6 +16,7 @@ Virtual Reality, Augmented Reality, Non-fungible token 기반의 엔터테인먼
 Alpha는 [alpha.moss.land](https://alpha.moss.land)에서 운영되는 크립토 × AI 미디어 + 커뮤니티 서비스입니다. SignalMap 정규화 저장소를 기반으로 한국 유튜브 채널·뉴스·매크로 피드를 수집하여 채널별 stance 분포, AI 합성 데일리 브리프, 검색 가능한 Q&A(RAG), 8명의 공개된 AI 페르소나(7일 자동 검증 트랙레코드 포함), 키워드+임베딩 하이브리드 검색을 제공합니다. 12개 도구가 노출된 [MCP 서버](https://github.com/MosslandOpenDevs/alpha-mcp)로 Claude·Cursor·Cline·Continue·Zed에서 직접 호출 가능. 처음부터 인간 독자와 주요 LLM(GPT, Gemini, Perplexity, Claude) 양쪽에 인용되도록 설계되었습니다.
 
 - [Homepage](https://alpha.moss.land/)
+- [GitHub](https://github.com/MosslandOpenDevs/alpha)
 - [Developers](https://alpha.moss.land/developers)
 - [MCP 서버](https://github.com/MosslandOpenDevs/alpha-mcp)
 - [Ask Alpha](https://alpha.moss.land/ask)
