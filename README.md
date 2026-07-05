@@ -35,7 +35,7 @@ MOSS.AO는 여러 AI 에이전트를 오케스트레이션하여 소프트웨어
 - [GitHub](https://github.com/MosslandOpenDevs/agentic-orchestrator)
 
 ### 거버넌스 스택 · Passport → Agora → Algora (2024–2026)
-모스랜드의 DAO 거버넌스는 세 개의 계층으로 구성됩니다. 참여 자격과 기록을 담당하는 **Passport**(Layer 1), 구속력 있는 사람 투표가 이뤄지는 **Agora**(Layer 2), 그리고 24시간 AI가 상시 심의하며 Agora에 제안을 올리는 **Algora**(Layer 3)입니다. 핵심 원칙은 **“AI가 추천하고, 사람이 결정한다”**입니다.
+모스랜드의 DAO 거버넌스는 세 개의 계층으로 구성됩니다. 참여 자격과 기록을 담당하는 **Passport**(Layer 1), 구속력 있는 사람 투표가 이뤄지는 **Agora**(Layer 2), 그리고 24시간 AI가 상시 심의하며 Agora에 제안을 올리는 **Algora**(Layer 3)입니다. 핵심 원칙은 "**AI가 추천하고, 사람이 결정한다**"입니다.
 
 ```mermaid
 flowchart LR
