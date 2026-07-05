@@ -1,5 +1,5 @@
 ## What is Mossland?
-![Title](https://user-images.githubusercontent.com/109493423/196594604-a77066c1-1478-4726-85db-52e0963f9724.png)
+![Mossland Projects](assets/header.png)
 
 Mossland is a blockchain project that began as a metaverse connecting the real and virtual worlds and has grown into infrastructure for the AI civilization. Building on its virtual reality, augmented reality, and NFT-based entertainment roots, Mossland now develops agentic AI governance, AI-driven media, and Physical AI services — all coordinated on-chain through Moss Coin(MOC), which ties the ecosystem into an integrated economic system.
 
