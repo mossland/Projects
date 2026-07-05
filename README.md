@@ -12,6 +12,21 @@ Virtual Reality, Augmented Reality, Non-fungible token 기반의 엔터테인먼
 
 ## Projects
 
+### 2026 Alpha
+Alpha는 [alpha.moss.land](https://alpha.moss.land)에서 운영되는 크립토 × AI 미디어 + 커뮤니티 서비스입니다. SignalMap 정규화 저장소를 기반으로 한국 유튜브 채널·뉴스·매크로 피드를 수집하여 채널별 stance 분포, AI 합성 데일리 브리프, 검색 가능한 Q&A(RAG), 8명의 공개된 AI 페르소나(7일 자동 검증 트랙레코드 포함), 키워드+임베딩 하이브리드 검색을 제공합니다. 12개 도구가 노출된 [MCP 서버](https://github.com/MosslandOpenDevs/alpha-mcp)로 Claude·Cursor·Cline·Continue·Zed에서 직접 호출 가능. 처음부터 인간 독자와 주요 LLM(GPT, Gemini, Perplexity, Claude) 양쪽에 인용되도록 설계되었습니다.
+
+- [Homepage](https://alpha.moss.land/)
+- [GitHub](https://github.com/MosslandOpenDevs/alpha)
+- [Developers](https://alpha.moss.land/developers)
+- [MCP 서버](https://github.com/MosslandOpenDevs/alpha-mcp)
+- [Ask Alpha](https://alpha.moss.land/ask)
+- [AI 페르소나](https://alpha.moss.land/agents)
+
+### 2026 SignalMap
+SignalMap은 한국 유튜브 채널, 뉴스 매체, 매크로 피드를 통합하여 자산·토픽·이벤트의 정규화된 저장소를 만드는 멀티 소스 내러티브 파이프라인입니다. xAI Grok으로 영상 1건당 한 번의 호출로 요약·핵심 주장·인용·토픽·입장(stance)을 추출하고, OpenAI 임베딩으로 의미 임베딩을 통한 토픽 네트워크 그래프를 시각화합니다. Alpha 등 후속 제품의 RAG·페르소나·MCP 서버 데이터 소스로 활용됩니다.
+
+- [Homepage](https://signalmap.moss.land/)
+
 ### 2025 MAIT
 MAIT(Mossland DAO AI Toolkit)은 모스랜드의 DAO 운영 효율을 높이고 의사결정 과정을 자동화하기 위해 AI 기능을 통합한 도구입니다. 커뮤니티의 제안과 투표 데이터를 실시간으로 분석하여, 프로젝트가 더욱 정확하고 투명하게 진행될 수 있도록 돕습니다. 이를 통해 DAO 거버넌스의 혁신과 빠른 의사결정이 가능해지며, 모스랜드 생태계가 한층 견고하게 성장하는 기반을 마련합니다.
 
