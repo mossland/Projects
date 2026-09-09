@@ -36,11 +36,13 @@ MOSS.AO는 여러 AI 에이전트를 오케스트레이션하여 소프트웨어
 - [GitHub](https://github.com/MosslandOpenDevs/agentic-orchestrator)
 
 ### 거버넌스 스택 · Passport → Agora → Algora (2024–2026)
-모스랜드의 DAO 거버넌스는 세 개의 계층으로 구성됩니다. 참여 자격과 기록을 담당하는 **Passport**(Layer 1), 구속력 있는 사람 투표가 이뤄지는 **Agora**(Layer 2), 그리고 24시간 AI가 상시 심의하며 Agora에 제안을 올리는 **Algora**(Layer 3)입니다. 핵심 원칙은 "**AI가 추천하고, 사람이 결정한다**"입니다.
+모스랜드의 DAO 거버넌스는 세 개의 계층으로 구성됩니다. 참여 자격과 기록을 담당하는 **Passport**(Layer 1), 구속력 있는 사람 투표가 이뤄지는 **Agora**(Layer 2), 그리고 AI 상시 심의를 맡았던 **Algora**(Layer 3)입니다. 핵심 원칙은 "**AI가 추천하고, 사람이 결정한다**"입니다.
+
+> **Layer 3 상태 변경:** Algora는 [MIP-1](https://agora.moss.land/proposals/6a85129f8be190cf5d2ebcc1)(2026-09-02 가결)에 따라 **보존(Archive)** 으로 분류되었고, 주간·월간 자동 보고 생성이 같은 날짜로 정지되었습니다. 기록은 삭제하지 않고 읽기 전용으로 보존합니다. AI 상시 심의 트랙은 [AO](https://ao.moss.land)가 잇습니다.
 
 ```mermaid
 flowchart LR
-    L["🤖 Algora · Layer 3<br/>24/7 AI 심의 (실험)"]
+    L["🤖 Algora · Layer 3<br/>AI 심의 (보존)"]
     A["🏛️ Agora · Layer 2<br/>MOC 가중 투표 · 구속력"]
     P["🪪 Passport · Layer 1<br/>참여 자격 · 기록"]
     L -->|제안 추천| A
@@ -52,10 +54,10 @@ flowchart LR
 |:--:|---|---|---|
 | **Layer 1** | Passport | 지갑 인증 · 참여 자격 · 기록 (서명만, 가스리스) | 오픈베타 (2026) |
 | **Layer 2** | Agora | MOC 가중 가스리스 투표 · **구속력 있는 결정** | 프로덕션 (2024–) |
-| **Layer 3** | Algora | 24/7 AI 상시 심의 → Agora에 추천 | 실험/PoC (2026) |
+| **Layer 3** | Algora | AI 상시 심의 → Agora에 추천 | **보존(Archive)** — MIP-1, 2026-09-02 |
 
 #### Passport (Layer 1)
-Passport는 모스코인(MOC) 홀더를 위한 자가지갑(self-custody) 활성화·인증 프로그램입니다. 자산 이동이나 가스비 없이 서명(signature)만으로 지갑 소유를 확인하고, 월간 체크인 스탬프·투표 위임·시그널 투표 등 거버넌스 참여를 기록합니다. 2026년에 인증한 지갑에는 1회성 'Founding 2026' 스탬프가 발급됩니다(2026년 이후 미발급). Agora·Algora와 독립적으로 동작하면서, 검증된 참여 기록을 Agora에 제공합니다.
+Passport는 모스코인(MOC) 홀더를 위한 자가지갑(self-custody) 활성화·인증 프로그램입니다. 자산 이동이나 가스비 없이 서명(signature)만으로 지갑 소유를 확인하고, 월간 체크인 스탬프·투표 위임·시그널 투표 등 거버넌스 참여를 기록합니다. 2026년에 인증한 지갑에는 1회성 'Founding 2026' 스탬프가 발급됩니다(2026년 이후 미발급). Agora·Algora와 독립적으로 동작하면서, 검증된 참여 기록을 Agora에 제공합니다. (Algora는 2026-09-02 보존 전환)
 
 - [Homepage (Open Beta)](https://passport.moss.land/)
 
@@ -68,11 +70,15 @@ Agora는 [agora.moss.land](https://agora.moss.land/)에서 프로덕션으로 �
 - [가이드북](https://medium.com/mossland-blog/agora-officially-launched-6cb9ee65a2cf)
 
 #### Algora (Layer 3)
-Algora는 24시간 상시 가동되는 실험적 에이전트 거버넌스 플랫폼입니다. 다수의 AI 에이전트가 로컬(Ollama)·API(OpenAI/Claude) 하이브리드 오케스트레이션으로 크립토 트렌드를 상시 분석·토론하고, 그 결과를 Agora의 사람 투표에 '추천'으로 제안합니다. 실시간 로직 시각화와 커스텀 에이전트 주입을 지원하며, 리스크가 큰 행동은 사람 승인 전까지 잠금됩니다. 현재 실험/PoC 단계입니다.
+**보존(Archive) — MIP-1, 2026-09-02.** 주간·월간 자동 보고 생성이 같은 날짜로 정지되었습니다.
+
+Algora는 실험적 에이전트 거버넌스 플랫폼이었습니다. 다수의 AI 에이전트가 로컬(Ollama)·API(OpenAI/Claude) 하이브리드 오케스트레이션으로 크립토 트렌드를 분석·토론하고, 그 결과를 Agora의 사람 투표에 '추천'으로 제안했습니다. 실시간 로직 시각화와 커스텀 에이전트 주입을 지원했고, 리스크가 큰 행동은 사람 승인 전까지 잠갔습니다.
+
+보존은 삭제가 아닙니다 — 기록과 저장소는 읽기 전용으로 남으며, 런타임이 당분간 응답하더라도 신규 개발과 자동 보고는 정지된 상태입니다.
 
 > ※ **Agora**(구속력 있는 사람 투표)와 **Algora**(실험적 AI 상시 심의)는 이름이 비슷하지만 서로 다른 프로젝트입니다.
 
-- [Homepage (Experimental)](https://algora.moss.land/)
+- [Homepage (Archive)](https://algora.moss.land/)
 - [GitHub](https://github.com/MosslandOpenDevs/Algora)
 
 ### 2026 BRIDGE (피지컬 AI 거버넌스 OS)
